@@ -3,9 +3,9 @@ A co-building hub for bitcoiners and cypherpunks, starting in Melbourne 🇦🇺
 
 _**Note:** this organisation is at a very early stage, and this is essentially a draft._
 
-**Mission**: To facilitate the growth of bitcoin and cypherpunk culture in local neighbourhoods.
+**Mission**: To use bitcoin to facilitate the growth of bitcoin and cypherpunk culture in local neighbourhoods.
 
-**Vision**: To create local meatspaces for bitcoiners and cypherpunks to work, share and create.
+**Vision**: To create local spaces for bitcoiners and cypherpunks to work, share and create.
 
 **Values**: not in a particular order, we value:
 - Bitcoin as sound money technology
@@ -14,6 +14,10 @@ _**Note:** this organisation is at a very early stage, and this is essentially a
 - Self-sovereignty
 - Education
 
+**Methods**
+- Bitcoin is saved by the organisation (unpent) until it is heeded.
+- Networks of multisig organisations
+
 ## Design Principles
 These are the guiding principles that unspent spaces should incorporate when designed. 
 
@@ -21,7 +25,7 @@ These are the guiding principles that unspent spaces should incorporate when des
 The space should be significantly unused, neglected or disregarded, and not necessarily highly regarded. This does not mean it can't be in a central location, but it should be a space that is looking for a little bit of love.
 
 ### Privacy
-When designed the physical environment for the space and also the logistics for how members interact with the space, privacy should be forefront of mind. For example, where possible, avoid members having to dox themselves more than they already need to. Instead of accepting membership payments via fiat rails online, you can accept bitcoi, cash or trade space time for a helpful hand.
+When designed the physical environment for the space and also the logistics for how members interact with the space, privacy should be forefront of mind. For example, where possible, avoid members having to dox themselves more than they already need to. Instead of accepting membership payments via fiat rails online, you can accept bitcoin, cash or trade space time for a helpful hand.
 
 Another example of where privacy can be maintained is ensuring adherance to respecting the space by using a multi-sig account for bond, rather than using surveillance inside the building.
 
